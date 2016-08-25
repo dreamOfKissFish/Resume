@@ -1,0 +1,213 @@
+
+
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+#topNavi {
+    background-color: rgba(255,255,255,0.9);
+    width: 100%;
+    display: none;
+    height: auto;
+    position: relative;
+    z-index: 3;
+}
+
+#topNavi a {
+    line-height: 100%;
+    color: #000000;
+    display:block;
+    background-color:rgba(255,255,255,0.9);
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    /*padding: auto 0px;*/
+    padding: auto 5px;
+    white-space:nowrap;
+}
+
+#topNavi li {
+    color: #000000;
+    display:inline;
+    padding: 0px;
+}
+
+#topNavi ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover {
+    color: #000000;
+    background: rgba(255,255,255,0.1);
+    border: none;
+}
+
+#topNavi ul.nav-tabs li a {
+    border-radius: 5px;
+}
+
+#topNavi ul.nav-tabs.affix {
+    top: 30px;
+}
+
+.container {
+    z-index: 1;
+}
+
+.col-xs-3 {
+    background-color: rgba(255,255,255,0.2);
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.content {
+    border-radius: 10px;
+    background-color: rgba(255,255,255,0.6);
+    margin-bottom: 50px;
+    z-index: 2;
+}
+
+#placehold {
+    height: 100px;
+    width: 100%;
+}
+
+#screen {
+    width: 100%;
+    height: 500px;
+    margin-right: 0px;
+}
+
+#title {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: 15%;
+    margin-bottom: 40%;
+    width: 55%;
+    height: auto;
+}
+
+#title h5 {
+    line-height: 25px;
+}
+
+#title p {
+    padding: 0px 40px;
+}
+
+#title hr {
+    width: 80%;
+}
+
+#myScrollspy {
+    display: none;
+}
+
+#myScrollspy ul {
+    margin-top: 100px;
+    border-bottom: none;
+}
+
+a {
+    color: #000000;
+
+}
+
+#myScrollspy a {
+    color: #000000;
+}
+
+#myScrollspy ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover {
+    color: #000000;
+    background: rgba(255,255,255,0.6);
+    border: none;
+}
+
+#myScrollspy ul.nav-tabs li a {
+    border-radius: 5px;
+}
+
+#myScrollspy ul.nav-tabs.affix {
+    top: 30px;
+}
+
+input {
+    display: block;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.content-block {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    height: auto;
+}
+
+.content-block h4 {
+    margin-bottom: 18px;
+}
+
+#skill li {
+    padding-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#project ul {
+    list-style: none;
+}
+
+#project ul li {
+    margin-top: 30px;
+}
+
+#commuOpt {
+    margin-top: 30px;
+}
+
+#commuOpts {
+    margin-top: 20px;
+}
+
+textarea {
+    resize: none;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+#traditionComu div {
+    margin-top: 30px;
+}
+
+#traditionComu #email {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.send {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.modal-content {
+    border-radius: 20px;
+}
+
+.modal-header {
+    border-radius: 19px 19px 0px 0px;
+}
+
+.succ {
+    -moz-border-radius-topleft: 20px;
+    -moz-border-radius-topright: 20px;
+
+    background-color: rgba(74,175,70,0.6);
+}
+
+.err {
+    -moz-border-radius-topleft: 20px;
+    -moz-border-radius-topright: 20px;
+    background-color: rgba(208,59,59,0.6);
+}

@@ -1,0 +1,1 @@
+a:6:{i:0;s:4:"name";i:1;s:3:"IDE";i:2;s:16:"responsibilities";i:3;s:12:"introduction";i:4;s:8:"download";s:5:"_type";a:5:{s:4:"name";s:11:"varchar(20)";s:3:"IDE";s:11:"varchar(30)";s:16:"responsibilities";s:11:"varchar(50)";s:12:"introduction";s:12:"varchar(200)";s:8:"download";s:11:"varchar(50)";}}

@@ -1,0 +1,1 @@
+a:8:{i:0;s:4:"name";i:1;s:3:"job";i:2;s:9:"education";i:3;s:9:"introduce";i:4;s:11:"phoneNumber";i:5;s:5:"email";i:6;s:3:"pic";s:5:"_type";a:7:{s:4:"name";s:11:"varchar(20)";s:3:"job";s:11:"varchar(10)";s:9:"education";s:12:"varchar(100)";s:9:"introduce";s:12:"varchar(100)";s:11:"phoneNumber";s:11:"varchar(20)";s:5:"email";s:11:"varchar(30)";s:3:"pic";s:12:"varchar(100)";}}
